@@ -1,0 +1,2 @@
+# MyDragViewLayout
+DragViewHelp简单使用，build.gradle多渠道打包和版本管理
